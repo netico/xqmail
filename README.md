@@ -16,6 +16,7 @@ xqmail is an easy to use web-based interface for mail server administration on s
 ### PHP_CodeSniffer
 
 - [PHP_CodeSniffer Wiki](https://github.com/squizlabs/PHP_CodeSniffer/wiki)
+- [PSR-12: Extended Coding Style](https://www.php-fig.org/psr/psr-12/)
 
 ### Slim
 
