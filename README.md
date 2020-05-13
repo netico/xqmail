@@ -4,10 +4,10 @@ xqmail is an easy to use web-based interface for mail server administration on s
 
 ## Development notes
 
-### vpopmaild
+### vpopmail/vpopmaild
 
 - [vpopmail - virtual domains for qmail](https://sourceforge.net/projects/vpopmail/)
-- [README.vpopmail](https://sourceforge.net/p/vpopmail/code/HEAD/tree/branches/v5_4_34/doc/README.vpopmaild)
+- [README.vpopmaild](https://sourceforge.net/p/vpopmail/code/HEAD/tree/branches/v5_4_34/doc/README.vpopmaild)
 
 ### Composer
 
@@ -15,7 +15,7 @@ xqmail is an easy to use web-based interface for mail server administration on s
 
 ### PHP_CodeSniffer
 
-- [Wiki](https://github.com/squizlabs/PHP_CodeSniffer/wiki)
+- [PHP_CodeSniffer Wiki](https://github.com/squizlabs/PHP_CodeSniffer/wiki)
 
 ### Slim
 
