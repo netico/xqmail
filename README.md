@@ -1,5 +1,7 @@
 # xqmail
 
+xqmail is an easy to use web-based interface for mail server administration on systems running vpopmaild
+
 ## Development notes
 
 ### Interesting things
