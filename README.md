@@ -6,10 +6,18 @@ xqmail is an easy to use web-based interface for mail server administration on s
 
 ### Interesting things
 
-- [Treating PHP Delusions](https://phpdelusions.net)
-- [What is the meaning of the /dist directory in open source projects?](https://stackoverflow.com/questions/22842691/what-is-the-meaning-of-the-dist-directory-in-open-source-projects)
 - [PSR-5: PHPDoc](https://github.com/phpDocumentor/fig-standards/blob/master/proposed/phpdoc.md)
+- [Sample File (including Docblock Comment standards)](https://pear.php.net/manual/en/standards.sample.php)
 
 ### Composer
 
 - [The composer.json Schema](https://getcomposer.org/doc/04-schema.md)
+
+### Slim
+
+- [Slim 4 Documentation](https://www.slimframework.com/docs/v4/)
+
+### vpopmaild
+
+- [vpopmail - virtual domains for qmail](https://sourceforge.net/projects/vpopmail/)
+- [README.vpopmail](https://sourceforge.net/p/vpopmail/code/HEAD/tree/branches/v5_4_34/doc/README.vpopmaild)
